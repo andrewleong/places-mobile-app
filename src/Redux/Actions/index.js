@@ -1,12 +1,8 @@
 export {
     addPlace,
     deletePlace,
-    selectPlace,
-    deselectPlace,
 
     actionAddPlace,
-    actionDeletePlace,
-    actionDeselectPlace,
-    actionSelectPlace
+    actionDeletePlace
 } from './Place';
 
